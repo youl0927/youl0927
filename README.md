@@ -3,8 +3,6 @@
   Welcome!
 </h1>
 
----
-
 ### 🛠 Tech Stack
 
 #### 🔹 Backend  
