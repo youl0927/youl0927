@@ -3,8 +3,6 @@
   Welcome!
 </h1>
 
----
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <h3 align="center">🔹 Backend</h3>
