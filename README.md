@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <span style="font-size: 20em; font-weight: bold;">Welcome!</span>
+  <span style="font-size: 100em; font-weight: bold;">Welcome!</span>
 </p>
 
 <p align="center" style="font-size: 1.8em; font-weight: bold; margin-bottom: 0;">🛠 Tech Stack</p>
