@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-0085CA?style=for-the-badge&logoColor=white">
 </p>
